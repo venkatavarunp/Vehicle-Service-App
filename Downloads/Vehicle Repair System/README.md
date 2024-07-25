@@ -10,7 +10,6 @@ A full-stack web application for managing vehicle services, including component 
 - [Frontend Setup](#frontend-setup)
 - [Running the Application](#running-the-application)
 - [Testing](#testing)
-- [License](#license)
 
 ## Features
 
@@ -31,8 +30,8 @@ A full-stack web application for managing vehicle services, including component 
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd vehicle-service
+   git clone https://github.com/venkatavarunp/Vehicle-Service-App
+   cd Downloads/Vehicle Repair System/Vehicle/vehicle-service
    ```
 
 2. **Install Dependencies**
@@ -60,7 +59,7 @@ A full-stack web application for managing vehicle services, including component 
 1. **Navigate to the Frontend Directory**
 
    ```bash
-   cd vehicle-service-frontend
+   cd Downloads/Vehicle Repair System/vehicle-service-frontend
    ```
 
 2. **Install Dependencies**
