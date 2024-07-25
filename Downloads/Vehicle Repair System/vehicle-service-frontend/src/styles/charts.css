@@ -1,0 +1,14 @@
+/* Styles for charts */
+.chart-container {
+  margin: 20px;
+}
+
+.chart-container h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: black; /* Changed text color to black */
+}
+
+.chart-container .revenue-chart {
+  margin-bottom: 40px;
+}
